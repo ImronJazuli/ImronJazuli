@@ -50,11 +50,3 @@ class ImronJazuli:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImronJazuli&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImronJazuli&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center"><i>"Belajar, membangun, dan terus berkembang satu commit setiap waktu."</i></p>
